@@ -27,7 +27,7 @@
     "coffee-script": "^1.12.3",
     "mocha": "^3.2.0",
     "nock": "^9.0.2",
-    "should": "^11.2.0",
+    "should": "^13.2.3",
     "valid-url": "^1.0.9"
   },
   "repository": {
